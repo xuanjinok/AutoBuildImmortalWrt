@@ -15,6 +15,7 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-quickstart-zh-cn"
 # 代理相关
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-app-dufs"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-dufs-zh-cn"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-app-passwall"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-passwall-zh-cn"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-ssr-plus"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-app-passwall2"
