@@ -15,6 +15,8 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-quickstart-zh-cn"
 # 去广告adghome
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-adguardhome"
 # 代理相关
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-filebrowser-zh-cn"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-app-filebrowser"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-app-dufs"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-dufs-zh-cn"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-app-passwall"
